@@ -25,6 +25,12 @@ Analyze sales performance, customer behavior, and delivery efficiency using Pyth
 - Average shipping time: ~4 days
 - Delay patterns observed beyond 5 days
 - Same-day deliveries detected (potential anomalies)
+  
+- ## 📊 Key Business Recommendations
+- Optimize logistics in regions with 5–6 day delays
+- Focus marketing on Consumer segment (highest contribution)
+- Increase inventory for Technology category
+- Plan campaigns around Sep–Dec seasonal spike
 
 ---
 
