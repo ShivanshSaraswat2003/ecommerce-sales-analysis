@@ -1,2 +1,39 @@
-# ecommerce-sales-analysis
-E-commerce sales and logistics analysis using Python (Pandas, Seaborn) and Power BI
+# 📊 E-commerce Sales & Logistics Analysis
+
+## 🎯 Objective
+Analyze sales performance, customer behavior, and delivery efficiency using Python and Power BI.
+
+---
+
+## 🛠️ Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Excel
+- Power BI
+
+---
+
+## 📈 Key Insights
+- West region generated highest revenue
+- Consumer segment contributed ~50% of total sales
+- Technology category dominated performance
+- Seasonal spikes observed during Sep–Dec
+- Delivery delays identified in 5–6 day range
+
+---
+
+## 🚚 Logistics Analysis
+- Average shipping time: ~4 days
+- Delay patterns observed beyond 5 days
+- Same-day deliveries detected (potential anomalies)
+
+---
+
+## 📂 Files Included
+- Python notebook with full analysis
+- Dataset (sample)
+- Visualizations
+
+---
+
+## 📌 Outcome
+This project highlights key revenue drivers and operational inefficiencies, enabling data-driven decision-making in e-commerce businesses.
